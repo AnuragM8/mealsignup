@@ -131,7 +131,7 @@ const Home = ({
   return (
     <div className="min-h-screen bg-background flex flex-col">
       <Helmet>
-        <title>Company Event Managment</title>
+        <title>Company Event Managment br2</title>
       </Helmet>
 
       <LunchPortalHeader
